@@ -1,2 +1,2 @@
-# Lottery
- Lotter developed using by react.js
+# React frontend for lottery contract
+[Render](https://render.com) at https://lottery-react.onrender.com.
